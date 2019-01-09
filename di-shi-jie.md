@@ -18,5 +18,11 @@ class Person{
 }
 ```
 
-
+| 类的元素 |  |
+| :--- | :--- |
+| 成员变量 | int height |
+| 返回值类型 | void和int |
+| 方法名称 | eat和fallinlove |
+| 参数列表 | String girlName |
+| 方法体 | System.out........ |
 
