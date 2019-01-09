@@ -40,5 +40,16 @@ Person person    =     new Person();
 类名    引用名称（随便）   new+类名+()
 ```
 
-### 
+### 访问对象的成员变量和成员方法
+
+凭证+“.”
+
+例子：
+
+* Person kobe=new Person\(\);
+* kobe.age;
+* kobe.height;
+* kobe.lovenum;   访问成员变量
+* kobe.eat\(\);
+* kobe.fallinLove\("Fanbingbing"\)  访问成员方法
 
