@@ -1,2 +1,2 @@
-# javastd
-Java学习笔记
+# Initial page
+
