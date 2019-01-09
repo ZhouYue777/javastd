@@ -1,20 +1,20 @@
 # 第十节
 
-### 定义一个普通类
+## 定义一个普通类
 
 ```text
 class Person{
     int height=180;
-    
+
     void eat{
         System.out.print("I'm eating.");
     }
-    
+
     int fallinlove(String girlName){
         System.out.print("I'm dating with"+girlName);
         return 2;
     }
-            
+
 }
 ```
 
@@ -26,11 +26,19 @@ class Person{
 | 参数列表 | String girlName |
 | 方法体 | System.out........ |
 
-### 成员方法使用的变量
+## 成员方法使用的变量
 
-1. 成员方法可使用任何 ***成员变量*** 。
-2. 成员方法可使用本方法 ***参数列表中的变量*** 。
-3. 成员方法可使用本方法 ***局部变量*** 。
+1. 成员方法可使用任何 _**成员变量**_ 。
+2. 成员方法可使用本方法 _**参数列表中的变量**_ 。
+3. 成员方法可使用本方法 _**局部变量**_ 。
+4. 局部变量：定义在方法体内，只在本方法体内有效。
 
+### 生成类型为Person对象的方式
 
+```text
+Person person    =     new Person();
+类名    引用名称（随便）   new+类名+()
+```
+
+### 
 
