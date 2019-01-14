@@ -13,4 +13,5 @@
 * [11.数组](11.-shu-zu.md)
 * [12.继承](12.-ji-cheng.md)
 * [13.转型](13.-zhuan-xing.md)
+* [14.多态](14.-duo-tai.md)
 
