@@ -13,6 +13,7 @@
 * [14.接口](jie-kou.md)
 * [15.匿名对象和final关键字](15.-ni-ming-dui-xiang.md)
 * [16.多态的概述和实现](16.-duo-tai-de-gai-shu-he-shi-xian.md)
+* [16.2.多态中的向上转型和向下转型](16.2.-duo-tai-zhong-de-xiang-shang-zhuan-xing-he-xiang-xia-zhuan-xing.md)
 * [13.转型](13.-zhuan-xing.md)
 * [14.多态](14.-duo-tai.md)
 
