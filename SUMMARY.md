@@ -18,6 +18,7 @@
 * [13.抽象2](13.-chou-xiang-2.md)
 * [13.抽象.总结](untitled-7.md)
 * [接口](jie-kou.md)
+* [15.匿名对象](15.-ni-ming-dui-xiang.md)
 * [13.转型](13.-zhuan-xing.md)
 * [Untitled](untitled-8.md)
 * [14.多态](14.-duo-tai.md)
