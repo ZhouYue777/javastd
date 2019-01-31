@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [0.Eclipse杂项](0.eclipse-za-xiang.md)
+* [2.变量和二进制](2.-bian-liang-he-er-jin-zhi.md)
 * [8.面向对象（类的构造）](8.-mian-xiang-dui-xiang.md)
 * [9.面向对象（Java内存模型和This关键字）](untitled-1.md)
 * [10.面向对象（构造方法、方法的重载）](10.-mian-xiang-dui-xiang-gou-zao-fang-fa-fang-fa-de-zhong-zai.md)
