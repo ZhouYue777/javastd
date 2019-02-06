@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [异常](yi-chang.md)
 * [0.Eclipse杂项](0.eclipse-za-xiang.md)
 * [2.变量和二进制](2.-bian-liang-he-er-jin-zhi.md)
 * [8.面向对象（类的构造）](8.-mian-xiang-dui-xiang.md)
